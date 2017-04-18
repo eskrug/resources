@@ -2,6 +2,11 @@
 
 Elasticsearch 관련 자료 및 링크들을 모아놓는 곳입니다.
 
+##### 목차
+- [Elastic 공식](#elastic-공식)
+- [커뮤니티](#커뮤니티)
+
+
 ## Elastic 공식
 ### 웹사이트
 - 홈페이지: https://www.elastic.co/kr
@@ -40,12 +45,13 @@ Elasticsearch 관련 자료 및 링크들을 모아놓는 곳입니다.
 - 리플릿: [한글](docs/elastic-stack-leaflet-kr.pdf), [영문](docs/elastic-stack-leaflet-en.pdf)
 
 ### 한국 오피스
-> 주소: 서울특별시 영등포구 국제금융로 10 TWO IFC 22층 07326\
-> 전화번호: +82 2 6138 3537
-> 대표메일: korea-team@elastic.co
+
+> 주소: 서울특별시 영등포구 국제금융로 10 TWO IFC 22층 07326 <br>
+> 전화번호: +82 2 6138 3537 <br>
+> 대표메일: korea-team@elastic.co <br>
 
 ## 커뮤니티
 - 한국 Elasticsearch 페이스북 그룹: https://www.facebook.com/groups/elasticsearch.kr
 - 한국어 사용자 포럼: https://discuss.elastic.co/c/in-your-native-tongue/korean
-- 
-
+ 
+## 개인 블로그
